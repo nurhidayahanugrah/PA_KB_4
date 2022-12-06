@@ -22,5 +22,13 @@ Dalam Dataset yang kami gunakan ini cuman ada 3 yaitu Backpack Min Bag, Shoulder
 
 ## TABLE OF CONTENTS
 
-
+    - Nama Kelompok
+    - Jobs Desk
+    - Handbag Classification
+    - Dataset
+ Tahapan Pengerjaan
+    - Data Preprocessing
+    - Data Analisis dan Visualisasi
+    - Data Modelling
+    - Evaluasi
 
