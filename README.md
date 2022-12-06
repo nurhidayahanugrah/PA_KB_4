@@ -26,9 +26,11 @@ Dalam Dataset yang kami gunakan ini cuman ada 3 yaitu Backpack Min Bag, Shoulder
     - Jobs Desk
     - Handbag Classification
     - Dataset
- Tahapan Pengerjaan
+    Tahapan Pengerjaan
     - Data Preprocessing
     - Data Analisis dan Visualisasi
     - Data Modelling
     - Evaluasi
+    - Predict data set
+    - model saving
 
